@@ -137,7 +137,7 @@
     .our-team {
         background: var(--CLOUD, #F4F4FD);
     }
-    .our-team-list {
+    .our-team-item {
         background-color: #FFFFFF;
     }
     .our-team-img {
