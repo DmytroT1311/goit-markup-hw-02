@@ -140,6 +140,9 @@
     .our-team-item {
         background-color: #FFFFFF;
     }
+    .our-team-list{
+        background-color: #FFFFFF;
+    }
     .our-team-img {
         background: url(<path-to-image>), lightgray -97.034px -0.927px / 181.897% 251.37% no-repeat;
     }
